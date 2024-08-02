@@ -1,0 +1,19 @@
+---
+title: ""
+author: 
+- name: 
+  affiliations:
+    - 
+format: 
+  pdf: 
+    pdf-engine: pdflatex
+    colorlinks: true
+    link-citations: true
+  html: default
+  docx: default
+prefer-html: true
+bibliography: references.bib
+thanks: ""
+abstract: ""
+keywords: ""
+---
