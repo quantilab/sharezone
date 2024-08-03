@@ -9,6 +9,9 @@ format:
     pdf-engine: pdflatex
     colorlinks: true
     link-citations: true
+    header-includes:
+      - \usepackage{float}
+      - \floatplacement{table}{H}
   html: default
   docx: default
 prefer-html: true
