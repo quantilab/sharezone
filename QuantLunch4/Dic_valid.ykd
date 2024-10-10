@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dictionary style="050805" patternengine="substring">
+<cnode name="illiberalism vs liberalism" desc="">
+<cnode name="illiberalism" desc="">
+<cnode name="nationalism, paternalism" desc="">
+<pnode name="allah"/>
+<pnode name="almighty"/>
+<pnode name="anarch*"/>
+<pnode name="chaos"/>
+<pnode name="christ"/>
+<pnode name="christianity"/>
+<pnode name="christians"/>
+<pnode name="church"/>
+<pnode name="danger*"/>
+<pnode name="destabili*"/>
+<pnode name="evil"/>
+<pnode name="father*"/>
+<pnode name="god"/>
+<pnode name="hero*"/>
+<pnode name="homeland"/>
+<pnode name="illegal*"/>
+<pnode name="immigra*"/>
+<pnode name="invincible"/>
+<pnode name="islam"/>
+<pnode name="jesus"/>
+<pnode name="migrant*"/>
+<pnode name="migration*"/>
+<pnode name="militar*"/>
+<pnode name="minaret"/>
+<pnode name="motherland"/>
+<pnode name="muslim*"/>
+<pnode name="negative"/>
+<pnode name="patriot*"/>
+<pnode name="police"/>
+<pnode name="pride"/>
+<pnode name="prison*"/>
+<pnode name="proud"/>
+<pnode name="rebell*"/>
+<pnode name="religi*"/>
+<pnode name="riot*"/>
+<pnode name="separatist*"/>
+<pnode name="soldier*"/>
+<pnode name="spiritual"/>
+<pnode name="stabil*"/>
+<pnode name="subversive"/>
+<pnode name="territory"/>
+<pnode name="uniqueness"/>
+<pnode name="unity"/>
+<pnode name="unlawful"/>
+</cnode>
+<cnode name="traditionalism" desc="">
+<pnode name="ancestors"/>
+<pnode name="brothers"/>
+<pnode name="discipline"/>
+<pnode name="family*"/>
+<pnode name="forefather"/>
+<pnode name="glories"/>
+<pnode name="glorious"/>
+<pnode name="heritage"/>
+<pnode name="honor"/>
+<pnode name="honour"/>
+<pnode name="inherit*"/>
+<pnode name="jubilee*"/>
+<pnode name="loyalty"/>
+<pnode name="majesty"/>
+<pnode name="monarch*"/>
+<pnode name="moral*"/>
+<pnode name="obscen*"/>
+<pnode name="pervert*"/>
+<pnode name="pornograph*"/>
+<pnode name="principle*"/>
+<pnode name="recapture*"/>
+<pnode name="reliab*"/>
+<pnode name="shameful"/>
+<pnode name="tradition*"/>
+</cnode>
+</cnode>
+<cnode name="liberalism" desc="">
+<cnode name="liberal values" desc="">
+<pnode name="authoritarian*"/>
+<pnode name="autocra*"/>
+<pnode name="choice"/>
+<pnode name="corrupt*"/>
+<pnode name="cruel*"/>
+<pnode name="demilitarization"/>
+<pnode name="dictator*"/>
+<pnode name="disarmament"/>
+<pnode name="discriminat*"/>
+<pnode name="diverse"/>
+<pnode name="diversity"/>
+<pnode name="equal*"/>
+<pnode name="fair*"/>
+<pnode name="fascism"/>
+<pnode name="free*"/>
+<pnode name="freedom"/>
+<pnode name="harassment"/>
+<pnode name="holistic"/>
+<pnode name="inclusion"/>
+<pnode name="inclusiv*"/>
+<pnode name="innocent"/>
+<pnode name="interfaith"/>
+<pnode name="interreligious"/>
+<pnode name="liberal*"/>
+<pnode name="mediat*"/>
+<pnode name="multicult*"/>
+<pnode name="negotiation*"/>
+<pnode name="oppression"/>
+<pnode name="pluralis*"/>
+<pnode name="referendum"/>
+<pnode name="repressi*"/>
+<pnode name="sex*"/>
+<pnode name="suppression"/>
+<pnode name="tolerance"/>
+<pnode name="tolerat*"/>
+<pnode name="transparen*"/>
+<pnode name="violat*"/>
+<pnode name="voluntary"/>
+<pnode name="vote*"/>
+<pnode name="voting"/>
+</cnode>
+<cnode name="woman, minorities" desc="">
+<pnode name="dialect*"/>
+<pnode name="ethni*"/>
+<pnode name="gay*"/>
+<pnode name="gender"/>
+<pnode name="genocide"/>
+<pnode name="girls"/>
+<pnode name="handicapped"/>
+<pnode name="harmon*"/>
+<pnode name="indigenous"/>
+<pnode name="injustice*"/>
+<pnode name="intolerance"/>
+<pnode name="justice"/>
+<pnode name="lesbian*"/>
+<pnode name="lgbt"/>
+<pnode name="marginalize*"/>
+<pnode name="minorities"/>
+<pnode name="multiethnic"/>
+<pnode name="queer*"/>
+<pnode name="racist*"/>
+<pnode name="rights"/>
+<pnode name="sisters"/>
+<pnode name="solidarity"/>
+<pnode name="transgender"/>
+<pnode name="unfair*"/>
+<pnode name="voice*"/>
+<pnode name="woman"/>
+<pnode name="women"/>
+</cnode>
+</cnode>
+</cnode>
+</dictionary>
